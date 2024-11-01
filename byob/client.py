@@ -95,7 +95,6 @@ else:
     sys.path.append('core')
 
 import colorama # type: ignore
-
 # modules
 import core.util as util
 import core.security as security
